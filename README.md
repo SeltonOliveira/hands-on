@@ -1,8 +1,3 @@
-Aqui está um modelo de **README.md** curto, descontraído e para iniciante sobre o desafio do **Banco HandsOn** da DIO 👇
-
----
-
-````markdown
 # 🏦 Banco HandsOn
 
 Esse é o meu projetinho do **desafio da DIO**!  
